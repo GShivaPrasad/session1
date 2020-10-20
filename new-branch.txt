@@ -4,4 +4,8 @@ my new change
 my new edit in master
 my new change in newbraach
 
+<<<<<<< HEAD
 change in B1
+=======
+change in b2
+>>>>>>> 7f65652 (change in b2)
