@@ -1,8 +1,7 @@
 hii 
 my new change
-<<<<<<< HEAD
 
 my new edit in master
-=======
 my new change in newbraach
->>>>>>> new-branch
+
+change in B1
